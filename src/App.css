@@ -1,0 +1,11 @@
+/* body {
+    background-image: url("../assets/bg-img");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
